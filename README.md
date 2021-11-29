@@ -8,7 +8,7 @@ the new order in the live database (MySql). The cashier will use this App
 to place order only.
 
 ## Checkout Scanner App
-<img src="/Shopping-Sanner-App/1.png" width="250" height="300">
+<img src="/Shopping-Sanner-App/1.png" >
 <img src="/Shopping-Sanner-App/2.png" width="250" height="300">
 <img src="/Shopping-Sanner-App/3.png" width="250" height="300">
 <img src="/Shopping-Sanner-App/4.png" width="250" height="300">
