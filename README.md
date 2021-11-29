@@ -9,13 +9,13 @@ to place order only.
 
 ## Checkout Scanner App
 <img src="/Shopping-Sanner-App/1.png" >
-<img src="/Shopping-Sanner-App/2.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/3.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/4.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/5.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/6.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/7.png" width="250" height="300">
-<img src="/Shopping-Sanner-App/8.png" width="250" height="300">
+<img src="/Shopping-Sanner-App/2.png" >
+<img src="/Shopping-Sanner-App/3.png" >
+<img src="/Shopping-Sanner-App/4.png" >
+<img src="/Shopping-Sanner-App/5.png" >
+<img src="/Shopping-Sanner-App/6.png" >
+<img src="/Shopping-Sanner-App/7.png" >
+<img src="/Shopping-Sanner-App/8.png" >
 
 
  
